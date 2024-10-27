@@ -7,3 +7,5 @@ Added Aiml lab3 (Minimax & AlphaBetaProning) through collab...https://github.com
 Added Aiml lab4 through collab....https://github.com/rithikaredddy/AIML-2025/blob/main/AIML_LAB_4.ipynb
 
 Added Aiml lab5 through collab....https://github.com/rithikaredddy/AIML-2025/blob/main/AIML_LAB_5.ipynb
+
+Added Aiml lab6(KNN) through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/AIML(Lab_6)KNN.ipynb
