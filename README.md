@@ -9,3 +9,5 @@ Added Aiml lab4 (Implement Linear Regression Model Using US Housing Data) throug
 Added Aiml lab5 (Logistic Regression with Titanic data set) through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/AIML_LAB_5.ipynb
 
 Added Aiml lab6 (K-Nearest Neighbor Classification) through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/AIML(Lab_6)KNN.ipynb
+
+Added Aiml lab8 (Decision-Tree)through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/Aiml_08(Decision_Tree).ipynb
