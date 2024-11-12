@@ -11,3 +11,5 @@ Added Aiml lab5 (Logistic Regression with Titanic data set) through collab...htt
 Added Aiml lab6 (K-Nearest Neighbor Classification) through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/AIML(Lab_6)KNN.ipynb
 
 Added Aiml lab8 (Decision-Tree)through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/Aiml_08(Decision_Tree).ipynb
+
+Added Aiml lab9 (Random_Forest_Ensemble)through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/AIML_09(Random_Forest_Ensemble_Model).ipynb
