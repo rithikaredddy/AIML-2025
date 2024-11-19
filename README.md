@@ -17,3 +17,5 @@ Added Aiml lab8 (Decision-Tree)through collab...https://github.com/rithikaredddy
 Added Aiml lab9 (Random_Forest_Ensemble)through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/AIML_09(Random_Forest_Ensemble_Model).ipynb
 
 Added Aiml lab10 (KMeans)through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/AIML_10(K_Means).ipynb
+
+Added lab through collab...https://github.com/rithikaredddy/AIML-2025/blob/main/2303A54048.ipynb
